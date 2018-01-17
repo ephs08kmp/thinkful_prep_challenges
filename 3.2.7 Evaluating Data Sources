@@ -1,0 +1,10 @@
+Data Source 1: The Amsterdam AirBnB data will be skewed by holiday travelers, not all travelers.  
+  This analysis could benefit from data scraped on a day not around a holiday.  
+  The question could also be re-worded to say, "What are the popular winter holiday neighborhoods in Amsterdam?"
+Data Source 2: The mental health services used will be skewed because of the events of 9/11.  
+  This would have more impacts on New York City, NY than on San Francisco, CA and would not be indicative of typical use.  
+  This analysis could benefit from data on a day not after a trajedy in either city.  
+  The question could also be re-worded to say, "How do acts of terrorism impact patterns of mental health service use between cities?"
+Data Source 3: The Armenian Pub Survey results are skewed because the data is mostly from students, and since the country is not mostly students, this data is not a representative sample of the country.  
+  This analysis could benefit from data that is a more representative sample of the country's population.  
+  The question could also be re-worded to say, "What are the most common reasons that Armenian students visit local pubs?"
